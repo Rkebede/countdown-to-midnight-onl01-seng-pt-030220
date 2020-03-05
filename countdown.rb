@@ -12,4 +12,3 @@ end
 def countdown_with_sleep(time)
   sleep (time)
 end
-puts countdown_with_sleep(time)
